@@ -26,10 +26,10 @@ define( 'DB_NAME', 'ebdb' );
 define( 'DB_USER', 'admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Akash123' );
+define( 'DB_PASSWORD', 'password' );
 
 /** Database hostname */
-define( 'DB_HOST', 'aaskemzut3dels.c7l68ufjmsug.us-east-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'awseb-e-k3xpibtvad-stack-awsebrdsdatabase-852dvqtubbcx.c2lrylhm2m0d.ap-south-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
