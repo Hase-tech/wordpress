@@ -29,7 +29,7 @@ define( 'DB_USER', 'admin' );
 define( 'DB_PASSWORD', 'password' );
 
 /** Database hostname */
-define( 'DB_HOST', 'awseb-e-k3xpibtvad-stack-awsebrdsdatabase-852dvqtubbcx.c2lrylhm2m0d.ap-south-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'awseb-e-rn2mtnmuf8-stack-awsebrdsdatabase-aia1mmfwy3xi.cteuspuktyp1.us-west-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
